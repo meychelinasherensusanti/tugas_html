@@ -1,2 +1,2 @@
 # tugas_html
-tugas html pertama saya di git hub
+tugas html pertama saya di git hub.
